@@ -6,3 +6,4 @@ def pretty_print(message):
     print(message)
     print("#" * 30)
     print("#" * 30)
+    print("*" * 30)
